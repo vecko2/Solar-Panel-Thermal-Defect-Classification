@@ -1,1 +1,11 @@
- 
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.pytest_cache/
+data/images/
+data/module_metadata.json
+models/*.pt
+models/*.pth
+results/figures/
